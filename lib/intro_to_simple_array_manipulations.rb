@@ -43,3 +43,5 @@ def using_delete_at(array, index)
 end
 
 def using_unshift(array, string)
+  array.unshift(string)
+end
